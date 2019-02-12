@@ -7,7 +7,7 @@ A fun git sample to learn about forking and other git commands
 Open the index.html on your local machine. You will see 10 fun facts about penguins provided by Nat Geo.
 
 ### Contributing
-Fork this repo and add a fun fact by un-commenting an "<li>" and add your fact!
+Fork this repo and add a fun fact by un-commenting an "li" and add your fact!
 
 ### Prerequisites
 
